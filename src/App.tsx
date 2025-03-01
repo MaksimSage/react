@@ -1,14 +1,11 @@
 
 import "./App.css"
+import MainPage from "./pages/main/MainPage.tsx";
 
 function App() {
 
   return (
-    <>
-      <div>
-       'fdfdsfdsfsdfsdfsdf'
-      </div>
-    </>
+      <MainPage/>
   )
 }
 
