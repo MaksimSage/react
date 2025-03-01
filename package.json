@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://MaksimSage.github.io/react",
+  "homepage": "https://maksimsage.github.io/react/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
